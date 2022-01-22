@@ -1,16 +1,20 @@
 type Data = {
     userId: number
     id: number
-    title: string
-    body: string
+    name: string
+    email: string
 }
 
-type Posts = {
+type Users = {
     data: Data[]
-    map: (post: any) => any
+    map: (user: any) => any
 }
 
-type Post = {
+type User = {
     id: number,
-    title: string,
+    name: string,
+}
+
+interface IErrorState {
+
 }

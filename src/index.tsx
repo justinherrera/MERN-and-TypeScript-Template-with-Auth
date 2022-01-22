@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './styles/styles.css'
 import AppRouter from '../src/routes/AppRouter';
 import { QueryClient, QueryClientProvider } from "react-query";
 
