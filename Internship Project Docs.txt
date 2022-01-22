@@ -1,0 +1,11 @@
+-- Internship Project Documentation --
+
+1. To create new model
+- create ts file under models folder
+- create ts file under controllers folder
+- create functions to be called by routes
+- create new route under api/routes
+
+2. Error handling
+- create new ts file under validators if there's something to validate
+- use LogError from utils folder to display error message

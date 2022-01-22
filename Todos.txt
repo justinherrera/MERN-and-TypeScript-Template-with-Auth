@@ -1,0 +1,13 @@
+Features
+
+-- Auth
+- Signup (done)
+- Login (done)
+- Logout (done)
+- Authorization upon requesting api
+
+
+Bugs
+
+- Random token works on request
+-
